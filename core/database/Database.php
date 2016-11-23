@@ -1,6 +1,6 @@
 <?php
 
-namespace Training\Metagusto\Git;
+namespace Training\Database;
 
 /**
  * Class Database
